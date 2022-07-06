@@ -1,2 +1,2 @@
-# Abalone-EDA
-Some EDA on the Abalone dataset!
+# Abalone EDA Notebook
+EDA on the Abalone dataset!
